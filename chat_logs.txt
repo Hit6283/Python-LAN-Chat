@@ -1,0 +1,12 @@
+[2025-08-21 18:39:14] Hit joined the chat.
+[2025-08-21 18:39:39] Hit: I am fine
+[2025-08-21 18:39:46] Hit: how are you?
+[2025-08-21 18:39:51] Hit: Hello
+[2025-08-21 18:40:27] Hit: I'm fine
+[2025-08-21 18:40:58] Hit: what is your name?
+[2025-08-21 18:41:03] Hit: Hit
+[2025-08-21 18:41:10] Hit left the chat. /exit
+[2025-08-21 18:41:10] Hit left the chat.
+[2025-08-21 18:41:26] Hit joined the chat.
+[2025-08-21 18:42:07] Hit left the chat. /exit
+[2025-08-21 18:42:07] Hit left the chat.
